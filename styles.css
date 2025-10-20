@@ -166,6 +166,7 @@ a:hover {color:#3882F6;}
 .shop-items {
     display: flex;
     gap: 30px;
+    justify-content: center;
 }
 .shop-items img {
     max-width: 100%;
@@ -178,7 +179,6 @@ a:hover {color:#3882F6;}
 }
 .shop-items a:hover {
     color: #0355d8;
-    justify-content: center;
 }
 .product-one {
     background-image: url('./Images/mens-button-up-featured.jpg');
