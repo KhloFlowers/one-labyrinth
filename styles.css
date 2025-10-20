@@ -180,7 +180,7 @@ a:hover {color:#3882F6;}
     color: #0355d8;
 }
 .product-one {
-    background-image: url('/images/mens-button-up-featured.jpg');
+    background-image: url('./Images/mens-button-up-featured.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -189,7 +189,7 @@ a:hover {color:#3882F6;}
 
 }
 .product-two {
-    background-image: url('./images/mens-cardigans-featured.jpg');
+    background-image: url('./Images/mens-cardigans-featured.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -197,7 +197,7 @@ a:hover {color:#3882F6;}
     padding-top: 270px;
 }
 .product-three {
-    background-image: url('./images/mens-work-pants-featured.jpg');
+    background-image: url('./Images/mens-work-pants-featured.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -205,7 +205,7 @@ a:hover {color:#3882F6;}
     padding-top: 270px;
 }
 .product-four {
-    background-image: url('./images/mens-shoes-featured.jpg');
+    background-image: url('./Images/mens-shoes-featured.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
