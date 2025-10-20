@@ -137,7 +137,7 @@ a:hover {color:#3882F6;}
 /*Shop*/
 .shop {
     background-color: white;
-    padding: 50px 30px 30px 30px;
+    padding: 50px 30px 100px 30px;
     align-items: center;
 }
 .shop h2 {
@@ -198,8 +198,12 @@ a:hover {color:#3882F6;}
     padding: 10px;
 }
 /*End Shop*/
-/*Quote Bar*/
-/*End Quote Bar*/
+/*Testimonial Bar*/
+.testimonial-bar {
+    background-color: #E5E7EB;
+    padding: 30px;
+}
+/*End Testimonial Bar*/
 /*CTA*/
 /*End CTA*/
 /*Footer*/
