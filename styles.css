@@ -178,6 +178,7 @@ a:hover {color:#3882F6;}
 }
 .shop-items a:hover {
     color: #0355d8;
+    justify-content: center;
 }
 .product-one {
     background-image: url('./Images/mens-button-up-featured.jpg');
@@ -185,7 +186,7 @@ a:hover {color:#3882F6;}
     background-position: center top;
     background-size: cover;
     align-content: flex-end;
-    padding-top: 270px;
+    min-height: 600px;
 
 }
 .product-two {
@@ -194,7 +195,7 @@ a:hover {color:#3882F6;}
     background-position: center top;
     background-size: cover;
     align-content: flex-end;
-    padding-top: 270px;
+    min-height: 600px;
 }
 .product-three {
     background-image: url('./Images/mens-work-pants-featured.jpg');
@@ -202,7 +203,7 @@ a:hover {color:#3882F6;}
     background-position: center top;
     background-size: cover;
     align-content: flex-end;
-    padding-top: 270px;
+    min-height: 600px;
 }
 .product-four {
     background-image: url('./Images/mens-shoes-featured.jpg');
@@ -210,7 +211,7 @@ a:hover {color:#3882F6;}
     background-position: center top;
     background-size: cover;
     align-content: flex-end;
-    padding-top: 270px;
+    min-height: 600px;
 }
 .blue-box {
     background-color: rgb(31, 41, 55, 0.8);
