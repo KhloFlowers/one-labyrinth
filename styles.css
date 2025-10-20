@@ -242,7 +242,8 @@ a:hover {color:#3882F6;}
 .cta-bar {
     background-color: white;
     padding: 80px 120px 80px 120px;
-    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 .electric-blue-box {
     background-color: #3882F6;
