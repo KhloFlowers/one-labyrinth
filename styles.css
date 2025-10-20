@@ -260,4 +260,15 @@ a:hover {color:#3882F6;}
 }
 /*End CTA*/
 /*Footer*/
+.footer {
+    background-color: #1F2937;
+    padding: 10px 30px 6px 30px;
+}
+.footer p {
+    color: white;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}
 /*End Footer*/
