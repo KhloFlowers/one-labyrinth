@@ -1,0 +1,99 @@
+/*Global Styles */
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #1F2937;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+}
+h3 {
+    font-size: 28px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+h4 {
+    font-size: 21px;
+    font-weight: 300;
+}
+h5 {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+h6 {
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.off-white {color: #F9FAF8;}
+.grey {color: #E5E7EB;}
+.dark-blue {color: #1F2937;}
+.electric-blue{color: #3882F6;}
+a {
+    color: white; 
+    text-decoration: none; 
+    font-weight: 800;
+    text-transform: uppercase;
+}
+a:hover {color:#3882F6;}
+
+.blue-button {
+    background-color: #3882F6;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 20px 10px 20px 10px;
+}
+.blue-button:hover {
+    background-color: #0355d8;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 20px 10px 20px 10px;
+}
+/*End Global Styles*/
+/*Header*/
+.header{
+    background-color: #1F2937;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo-container{
+    display: flex;
+    width: 60%;
+}
+.header-links-container {
+    display: flex;
+    gap: 30px;;
+    width: 30%;
+    justify-content: space-around;
+}
+.logo {
+width: 350px;
+}
+
+/*End Header*/
+/*Hero*/
+/*End Hero*/
+/*Information*/
+/*End Information*/
+/*Quote Bar*/
+/*End Quote Bar*/
+/*CTA*/
+/*End CTA*/
+/*Footer*/
+/*End Footer*/
