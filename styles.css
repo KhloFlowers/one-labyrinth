@@ -61,6 +61,9 @@ p {
 .thin {font-weight: 400;}
 .medium {font-weight: 600;}
 .bold {font-weight: 900;}
+.center {text-align: center;}
+.left {text-align: left;}
+.right {text-align: right;}
 
 a {
     color: white; 
@@ -131,8 +134,70 @@ a:hover {color:#3882F6;}
     margin-bottom: 50px;
 }
 /*End Hero*/
-/*Information*/
-/*End Information*/
+/*Shop*/
+.shop {
+    background-color: white;
+    padding: 50px 30px 30px 30px;
+    align-items: center;
+}
+.shop h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.shop-items {
+    display: flex;
+    gap: 30px;
+}
+.shop-items img {
+    max-width: 100%;
+}
+.shop-items a {
+    color: #E5E7EB; 
+    text-decoration: none; 
+    font-weight: 800;
+    text-transform: capitalize;
+}
+.shop-items a:hover {
+    color: #0355d8;
+}
+.product-one {
+    background-image: url('./images/mens-button-up-featured.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    align-content: flex-end;
+    padding-top: 270px;
+
+}
+.product-two {
+    background-image: url('./images/mens-cardigans-featured.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    align-content: flex-end;
+    padding-top: 270px;
+}
+.product-three {
+    background-image: url('./images/mens-work-pants-featured.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    align-content: flex-end;
+    padding-top: 270px;
+}
+.product-four {
+    background-image: url('./images/mens-shoes-featured.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    align-content: flex-end;
+    padding-top: 270px;
+}
+.blue-box {
+    background-color: rgb(31, 41, 55, 0.8);
+    padding: 10px;
+}
+/*End Shop*/
 /*Quote Bar*/
 /*End Quote Bar*/
 /*CTA*/
