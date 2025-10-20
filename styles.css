@@ -75,20 +75,39 @@ a:hover {color:#3882F6;}
 
 .blue-button {
     background-color: #3882F6;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 16px;
     font-weight: 600;
     color: white;
-    padding: 20px 10px 20px 10px;
+    padding: 20px 30px 20px 30px;
 }
 .blue-button:hover {
     background-color: #0355d8;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 16px;
     font-weight: 600;
     color: white;
-    padding: 20px 10px 20px 10px;
+    padding: 20px 30px 20px 30px;
 }
+.hollow-button {
+    background-color: transparent;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 20px 30px 20px 30px;
+    border-style: solid;
+    border-width: 2px;
+}
+.hollow-button:hover {
+    background-color: #F9FAF8;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #0355d8;
+    padding: 20px 30px 20px 30px;
+}
+
 /*End Global Styles*/
 /*Header*/
 .header{
@@ -219,6 +238,26 @@ a:hover {color:#3882F6;}
 }
 /*End Testimonial Bar*/
 /*CTA*/
+.cta-bar {
+    background-color: white;
+    padding: 80px 120px 80px 120px;
+    align-items: center;
+}
+.electric-blue-box {
+    background-color: #3882F6;
+    padding: 50px 120px 50px 120px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cta-text-container {
+    width: 60%;
+}
+.cta-button-container {
+    width: 40%;
+    display: contents;
+}
 /*End CTA*/
 /*Footer*/
 /*End Footer*/
