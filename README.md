@@ -1,1 +1,1 @@
-"# one-labyrinth" 
+We are a fashion company that sells trendy business clothing. Our items are made with the world's top designers and are available in our retail stores. Our target audience is men. We want to convey a sense of eagerness, while at the same time being modern.
