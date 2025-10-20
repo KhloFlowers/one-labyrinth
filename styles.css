@@ -180,7 +180,7 @@ a:hover {color:#3882F6;}
     color: #0355d8;
 }
 .product-one {
-    background-image: url('./images/mens-button-up-featured.jpg');
+    background-image: url('/images/mens-button-up-featured.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
